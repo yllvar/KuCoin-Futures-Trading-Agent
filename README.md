@@ -49,8 +49,6 @@ A powerful, customizable trading bot for KuCoin Futures markets built with Next.
    git clone https://github.com/yllvar/KuCoin-Futures-Trading-Agent.git
    cd KuCoin-Futures-Trading-Agent
 
-   Thought for 2 secondsI'll create a comprehensive README.md file for the KuCoin Futures Trading Agent project:
-
 ```markdown file="README.md"
 ...
 ```
@@ -104,9 +102,6 @@ yarn dev
 3. Trailing Stop percentage
 
 
-
-
-
 ### Backtesting
 
 1. Navigate to the Backtesting tab
@@ -118,8 +113,6 @@ yarn dev
 2. Win Rate
 3. Maximum Drawdown
 4. Profit Factor
-
-
 
 5. Export results to CSV for further analysis
 
